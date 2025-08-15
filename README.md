@@ -48,16 +48,18 @@ There are two main analyses:
 
 
 project-folder/
-├── data/ # Dataset files
-│ ├── googleplaystore.csv
-│ └── googleplaystore_user_reviews.csv
+├── data/                       # Dataset files
+│   ├── googleplaystore.csv
+│   └── googleplaystore_user_reviews.csv
 │
-├── notebooks/ # Google Colab notebooks for analysis
-│ ├── google_play_apps_analysis.ipynb
-│ └── googleplaystore_user_reviews.ipynb
+├── notebooks/                  # Google Colab notebooks for analysis
+│   ├── google_play_apps_analysis.ipynb
+│   ├── googleplaystore_user_reviews.ipynb
+│   └── get_requirements.ipynb  # Script to get requirements.txt
 │
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
+├── README.md                   # Project documentation
+└── requirements.txt            # Dependencies
+
 
 
 ---
