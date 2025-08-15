@@ -1,0 +1,12 @@
+# requirements.txt
+# This file contains the dependencies required for running the Google Play Store analysis project.
+# It includes the libraries used for data analysis, visualization, and modeling.
+
+google-colab==1.0.0
+wordcloud==1.9.4
+pandas==2.2.2
+matplotlib==3.10.0
+nltk==3.9.1
+prophet==1.1.7
+numpy==2.0.2
+seaborn==0.13.2
